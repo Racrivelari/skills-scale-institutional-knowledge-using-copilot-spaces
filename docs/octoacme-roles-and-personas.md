@@ -75,7 +75,90 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Release Coordinators
+
+### Role Summary
+Release Coordinators plan and oversee the end-to-end delivery of updates, ensuring changes are ready to ship safely and on time.
+
+### Responsibilities
+- Prepare release readiness checklists and deployment windows
+- Confirm dependencies, prerequisites, and rollback plans
+- Coordinate release communications with stakeholders and support teams
+- Monitor release execution and document lessons learned after deployment
+
+### Goals
+- Deliver predictable, low-risk releases
+- Reduce deployment friction and operational surprises
+- Keep stakeholders informed on launch status and impact
+
+### Typical Communication
+- Release readiness reviews and launch check-ins
+- Deployment status updates and stakeholder notices
+- Post-release retrospectives and handoff summaries
+
+### Interaction with Existing Roles
+- Work closely with Developers to verify feature readiness, deployment prerequisites, and rollback safety.
+- Partner with Project Managers to align launch timing, dependencies, and communication plans.
+- Support Product Managers by communicating release impact, user-facing changes, and adoption readiness.
+
+---
+
+## Technical Leads
+
+### Role Summary
+Technical Leads guide implementation decisions, maintain architectural quality, and help the team deliver work that is technically sound and sustainable.
+
+### Responsibilities
+- Define technical direction and implementation standards
+- Review architecture, dependencies, and integration risks
+- Coach the team on solution design and technical trade-offs
+- Support delivery planning by identifying technical constraints and sequencing
+
+### Goals
+- Maintain system quality, reliability, and maintainability
+- Reduce avoidable technical debt and integration risk
+- Help teams deliver work efficiently without compromising quality
+
+### Typical Communication
+- Architecture discussions and technical design reviews
+- Dependency planning and risk reviews
+- Cross-team engineering coordination and escalation paths
+
+### Interaction with Existing Roles
+- Collaborate with Developers to set technical standards, review implementation quality, and unblock design decisions.
+- Coordinate with Project Managers on delivery sequencing, dependencies, and risk mitigation plans.
+- Align with Product Managers on feasibility, trade-offs, and the impact of technical constraints on roadmap commitments.
+
+---
+
+## Risk and Communication Leads
+
+### Role Summary
+Risk and Communication Leads monitor project health, surface issues early, and keep stakeholders aligned on priorities, changes, and escalation paths.
+
+### Responsibilities
+- Track project risks, blockers, and cross-team dependencies
+- Facilitate escalation paths when issues affect scope, timeline, or delivery quality
+- Maintain clear stakeholder communication for project status and decisions
+- Support proactive issue identification and mitigation planning
+
+### Goals
+- Reduce ambiguity during execution and escalation
+- Improve visibility into project health and decision-making
+- Keep stakeholders informed and aligned on risks and actions
+
+### Typical Communication
+- Risk reviews and dependency updates
+- Status reports and executive summaries
+- Escalation communications and decision logs
+
+### Interaction with Existing Roles
+- Partner with Project Managers to monitor project health, escalate critical issues, and coordinate action plans.
+- Work with Developers to confirm technical blockers, impact, and mitigation options.
+- Support Product Managers by translating stakeholder concerns into actionable delivery updates and prioritization discussions.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
